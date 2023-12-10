@@ -1,0 +1,50 @@
+[
+  {
+    "imagePath": "images/book1.jpg",
+    "title": "Tentang Kamu",
+    "rating": 4.5,
+    "category": "Romantis",
+    "Read_Books": "https://drive.google.com/file/d/11m6paoe9e5pU9YpuqhQfan-Vtl47AXyl/view",
+    "description": "Cerita dimulai dari seorang pengacara muda Indonesia bernama Zaman Zulkarnaen yang mendapat panggilan dari Sir Thompson, seorang senior di firma hukum Thompson & Co untuk mengisi kursi lawyer senior. Namun, Zaman baru bisa mendapatkan kursi bila ia dapat menyelesaikan masalah pembagian warisan sebesar 19 triliun rupiah. Harta warisan itu tersimpan dalam 1% kepemilikan saham di salah satu perusahaan toiletries di dunia. Pemilik warisan tersebut adalah orang Indonesia berpaspor Inggris bernama Sri Ningsih yang meninggal di sebuah panti jompo di Paris. Permasalahannya adalah tidak ada data mengenai ahli warisnya sehingga Zaman harus mulai menelusuri kehidupan Sri Ningsih."
+  },
+  {
+    "imagePath": "images/book2.jpg",
+    "title": "Rembulan Tenggelam Di Wajahmu",
+    "rating": 4.0,
+    "category": "Romantis",
+    "Read_Books": "https://drive.google.com/file/d/1rW69vC7MmhVJeNKbEbRf4nBSqKltZY8S/view",
+    "description": "Novel ini berkisah tentang kehidupan Ray. Dimulai dari masa kecilnya, selama enam belas tahun ia dibesarkan di panti asuhan. Di panti asuhan ini ia mengalami masa kecil yang kurang mengenakkan. Penjaga panti menyuruh anak-anak panti menghabiskan waktu untuk bekerja. Berbeda dengan anak-anak panti lainnya yang tumbuh tertekan, Ray yang pada dasarnya cerdas justru tumbuh melawan. Semakin lama, pecutan rotan yang tidak menjawab kekritisannya tentang banyak hal menambah buruk bentuk perlawanan yang ia lakukan. Mulai dari mencuri, menjual paket yang datang ke pantinya, hingga berjudi.\n\nSuatu hari, Ray memutuskan untuk kabur dari panti asuhan, dengan sebelumnya diiringi bentuk pemberontakan puncaknya kepada penjaga panti."
+  },
+  {
+    "imagePath": "images/book3.jpg",
+    "title": "Bumi",
+    "rating": 4.2,
+    "category": "Drama",
+    "Read_Books": "https://drive.google.com/file/d/1kjNn7rETBUsjf3SR9O_fZFhnoaCgaAuS/view",
+    "description": "Dikisahkan bahwa Raib bisa bertemu sosok kurus tinggi bernama Tamus. Makhluk kurus dan tinggi itu muncul di dalam cermin kamar Raib. Berbagai keanehan dialami Raib hingga akhirnya dia menyadari bahwa dirinya memiliki kemampuan istimewa. Kejadian aneh diawali dengan kasus robohnya tower listrik di belakang sekolahnya hingga pertemuan Raib dengan makhluk tak terduga. Pertemuan tersebut membawanya ke klan Bulan. Klan Bulan adalah dunia paralel yang hidup berdampingan dengan klan Bumi. Novel pertama dari serial Bumi ini menceritakan awal pertemuan Raib dengan Seli dan Ali. Pada akhirnya mereka akan berjelajah dan berpetualang bersama di dunia paralel. "
+  },
+  {
+    "imagePath": "images/book4.jpg",
+    "title": "Hujan",
+    "rating": 4.7,
+    "category": "Sejarah",
+    "Read_Books": "https://drive.google.com/file/d/1Z_VDUFwmYsAIM5LFHYOmeJvGVHAY2kcb/preview",
+    "description": "Cerita dalam novel “Hujan” berlangsung di kota Jakarta. Di tengah kesibukan kota besar, tiba-tiba terjadi bencana alam yang besar. Hujan turun dengan derasnya, banjir merendam seluruh kota. Banjir ini mengakibatkan kerusakan yang sangat parah, dan banyak warga Jakarta harus mengungsi ke tempat yang lebih aman."
+  },
+  {
+    "imagePath": "images/book5.jpg",
+    "title": "Negeri Para Bedebah",
+    "rating": 3.9,
+    "category": "Adventure",
+    "Read_Books": "https://drive.google.com/file/d/15IZ8Uuj-q3qE_lLZFMBu_Mx39CjFQbKk/view",
+    "description": "Negeri para bedebah, negerinya para musang berbulu domba, negerinya pencuri berdasi. Tempat dimana kehidupan terasa jauh lebih fiksi dari pada novel fiksi itu sendiri. Dimana realita terasa jauh lebih nyata.Sebab di negeri para bedebah segala hal bisa terjadi selama melibatkan materi dan kedudukan. Manusia bisa berubah menjadi musang paling manipulatif selama itu demi kekayaan. Namun di negeri para bedebah pula masih menyimpan kebaikan, kemanusiaan dan kesetiaan."
+  },
+  {
+    "imagePath": "images/book6.jpg",
+    "title": "Pulang Pergi",
+    "rating": 4.1,
+    "category": "Fiksi",
+    "Read_Books": "https://drive.google.com/file/d/1MSK1x29dR8q0m0pir6ME0PobPSl__yEn/view",
+    "description": "Novel Pulang-Pergi mengisahkan seorang tokoh utama bernama bujang, dia adalah seorang mantan tukang pukul (pembunuh bayaran) terkenal dari keluarga salah satu shadow economy. Awalnya ketika Bujang berziarah di makam kedua orangtuanya, tiba-tiba ia diserang oleh Natascha yaitu orang kepercayaan Otets. Otets adalah ketua atau kepemimpinan tertinggi dari Brotherhood Bratva. Tujuan Natascha hanya sekedar menyampaikan pesan kepada bujang agar jangan melewatkan acara pertunangan Bujang dengan putri Otets yang bernama Maria. Tidak hanya itu, jika si Bujang tidak datang di acara tunangannya dengan si Maria maka akan ada perang besar."
+  }
+]
